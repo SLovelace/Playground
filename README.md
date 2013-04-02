@@ -3,6 +3,6 @@ Playground
 
 A place to play
 
-This is a trail, test and explore repository that I've set up for learning purposes.
+This is a trial, test and explore repository that I've set up for learning purposes.
 
-Use at your own risk and downfall.
+Nothing too interesting in here...yet.
