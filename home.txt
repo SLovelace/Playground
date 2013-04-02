@@ -1,0 +1,3 @@
+curious what happens when you create a file.
+
+This is a txt, next I'll try some html
